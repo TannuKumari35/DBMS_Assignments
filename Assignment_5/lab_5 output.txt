@@ -1,0 +1,156 @@
+
+STUDENT_ID NAME                                                COURSE_ID
+---------- -------------------------------------------------- ----------
+2.3157E+10 Simran Kumari                                          105501
+2.3157E+10 Tannu Kumari                                           105504
+2.3105E+10 Ranvijay Kumar                                         100508
+2.3157E+10 Atisha Raj                                             100508
+2.3157E+10 Nidhi Rani                                                621
+2.3110E+10 Sonam Priya                                            100506
+2.3101E+10 Aarav Dhanraj                                          101506
+2.3102E+10 Alok Kumar                                             119504
+2.3119E+10 Laxmi Kumari                                           101503
+
+
+NAME                                               SEMESTER
+-------------------------------------------------- ----------
+Simran Kumari                                      5th
+Tannu Kumari                                       5th
+Ranvijay Kumar                                     5th
+Atisha Raj                                         5th
+Nidhi Rani                                         5th
+Sonam Priya                                        5th
+Aarav Dhanraj                                      5th
+Alok Kumar                                         5th
+Laxmi Kumari                                       5th
+
+
+NAME                                               GR
+-------------------------------------------------- --
+Simran Kumari                                      A+
+Tannu Kumari                                       A
+Ranvijay Kumar                                     A+
+Atisha Raj                                         A+
+Nidhi Rani                                         A+
+Sonam Priya                                        A
+Aarav Dhanraj                                      A
+Alok Kumar                                         B
+Laxmi Kumari                                       A
+
+
+
+COURSE_NAME                        CREDIT NAME
+------------------------------ ---------- ------------------------------
+Machine Learning                        4 Praveen Kumar
+Computer Networks                       4 Praveen Kumar
+Artificial Intelligence                 4 Praveen Kumar
+Control Systems                         4 Abhimanyu Mandal
+Power Electronics                       4 Ashish Kumar Suman
+Power System                            4 Nitish Kumar
+Professional Skill Development          2 Prity Kumari Choudhary
+Design Thinking                         3 Abhishek Kumar
+Environmental Engineering               4 Rahul Ranjan Bharti
+Geotechnical Engineering                4 Rupesh Kumar
+Hydrology and Water Resources           4 Firoz Akhtar
+Hydraulic Engineering                   4 Rahul Ranjan Bharti
+Mechanics of Materials                  4 Firoz Akhtar
+Transportation Engineering              4 Bablu Das
+Fluid Machinery                         4 Kunal Kumar
+Heat Transfer                           4 Nishikant Kumar
+Manufacturing Processes                 4 Akhilesh Kumar
+Kinematics of Machinery                 4 Raushan Anand
+Artificial Intelligence                 4 E-Haque
+Database Managemnet System              4 Md.Izhar
+Formal Language and Automata            4 Praveen Kumar
+Software Engineering                    4 Murlidhar Prasad Singh
+Analog and Digital                      4 Bhavesh Nandan
+3D Modelling                            4 Manisha Kumari Singh
+3D Character Design                     4 Manisha Kumari Singh
+3D Texturing                            4 Manisha Kumari Singh
+Machine Learning                        4 N.Kumar
+Hydraulic Engineering                   4 Rahul Ranjan Bharti
+Geotechnical Engineering                4 Rupesh Kumar
+Environmental Engineering               4 Rahul Ranjan Bharti
+Transportation Engineering              4 Bablu Das
+
+
+COURSE_NAME
+------------------------------
+Machine Learning
+Computer Networks
+Artificial Intelligence
+Formal Language and Automata
+
+
+NAME                           DESIGNATION                    COURSE_NAME
+------------------------------ ------------------------------ ------------------------------
+Praveen Kumar                  Associate Professor            Machine Learning
+Praveen Kumar                  Associate Professor            Computer Networks
+Praveen Kumar                  Associate Professor            Artificial Intelligence
+Abhimanyu Mandal               Associate Professor            Control Systems
+Ashish Kumar Suman             Professor                      Power Electronics
+Nitish Kumar                   Associate Professor            Power System
+Prity Kumari Choudhary         Associate Professor            Professional Skill Development
+Abhishek Kumar                 Associate Professor            Design Thinking
+Rahul Ranjan Bharti            Associate Professor            Environmental Engineering
+Rupesh Kumar                   Associate Professor            Geotechnical Engineering
+Firoz Akhtar                   Associate Professor            Hydrology and Water Resources
+Rahul Ranjan Bharti            Associate Professor            Hydraulic Engineering
+Firoz Akhtar                   Associate Professor            Mechanics of Materials
+Bablu Das                      Associate Professor            Transportation Engineering
+Kunal Kumar                    Associate Professor            Fluid Machinery
+Nishikant Kumar                Associate Professor            Heat Transfer
+Akhilesh Kumar                 Associate Professor            Manufacturing Processes
+Raushan Anand                  Associate Professor            Kinematics of Machinery
+E-Haque                        Associate Professor            Artificial Intelligence
+Md.Izhar                       Associate Professor            Database Managemnet System
+Praveen Kumar                  Associate Professor            Formal Language and Automata
+Murlidhar Prasad Singh         Associate Professor            Software Engineering
+Bhavesh Nandan                 Associate Professor            Analog and Digital
+Manisha Kumari Singh           Associate Professor            3D Modelling
+Manisha Kumari Singh           Associate Professor            3D Character Design
+Manisha Kumari Singh           Associate Professor            3D Texturing
+N.Kumar                        Associate Professor            Machine Learning
+Rahul Ranjan Bharti            Associate Professor            Hydraulic Engineering
+Rupesh Kumar                   Associate Professor            Geotechnical Engineering
+Rahul Ranjan Bharti            Associate Professor            Environmental Engineering
+Bablu Das                      Associate Professor            Transportation Engineering
+
+
+NAME                           COURSE_NAME
+------------------------------ ------------------------------
+Nidhi Rani                     Machine Learning
+Sonam Priya                    Power Electronics
+Atisha Raj                     Professional Skill Development
+Ranvijay Kumar                 Professional Skill Development
+Laxmi Kumari                   Geotechnical Engineering
+Aarav Dhanraj                  Mechanics of Materials
+Simran Kumari                  Artificial Intelligence
+Tannu Kumari                   Software Engineering
+Alok Kumar                     Geotechnical Engineering
+
+
+NAME                           COURSE_NAME                    SEMESTER
+------------------------------ ------------------------------ ----------
+Nidhi Rani                     Machine Learning               5th
+Sonam Priya                    Power Electronics              5th
+Atisha Raj                     Professional Skill Development 5th
+Ranvijay Kumar                 Professional Skill Development 5th
+Laxmi Kumari                   Geotechnical Engineering       5th
+Aarav Dhanraj                  Mechanics of Materials         5th
+Simran Kumari                  Artificial Intelligence        5th
+Tannu Kumari                   Software Engineering           5th
+Alok Kumar                     Geotechnical Engineering       5th
+
+
+
+
+
+
+
+
+
+
+
+
+
